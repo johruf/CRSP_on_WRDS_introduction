@@ -30,3 +30,6 @@ The course starts with reviewing distributions and delistings before implementin
 Comments and corrections are welcome.
 
 
+## Updates
+
+February 2024: Minor changes, including a short discussion concerning a data error in stocknames_v2 (see Notebook 2).
