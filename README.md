@@ -32,4 +32,4 @@ Comments and corrections are welcome.
 
 ## Updates
 
-February 2024: Minor changes, including a short discussion concerning a data error in stocknames_v2 (see Notebook 2).
+February 2024: Minor changes, including a short discussion concerning a data error in the table stocknames_v2 (see Notebook 2), provided  by WRDS.
